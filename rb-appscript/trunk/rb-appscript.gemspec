@@ -1,6 +1,6 @@
 spec = Gem::Specification.new do |s|
 	s.name = "rb-appscript"
-	s.version = "0.6.1"
+	s.version = "0.6.2"
 	s.homepage = "http://appscript.sourceforge.net/"
 	s.authors = ["Hamish Sanderson"]
 	s.summary="Ruby appscript (rb-appscript) is a high-level, user-friendly Apple event bridge that allows you to control scriptable Mac OS X applications using ordinary Ruby scripts."
